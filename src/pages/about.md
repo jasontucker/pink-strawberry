@@ -1,20 +1,13 @@
 ---
-title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+title: About
+subtitle: Learn about me and my adventures in driving for Lyft.
+img_path: /images/d7a65738-3ecf-4807-bb16-43bea2b68316.jpg
 menus:
   main:
     title: About
     weight: 2
 template: page
 ---
+I'm Jason Tucker, by day I work as an IT director for a non-profit and on the weekends I drive for Lyft in the LA / OC markets here in California.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
-
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+I started writing about #gigeconomy stuff on Facebook & twitter and later on my personal website [jasontucker.blog](https://jasontucker.blog) but found that this rideshare / gigeconomy content needed its own website. I started driving about 16 months ago.
