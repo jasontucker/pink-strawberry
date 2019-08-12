@@ -1,6 +1,8 @@
 ---
 title: My rideshare riders play Octopus
 date: 2019-08-04T20:01:20.834Z
+thumb_img_path: /images/octopus.png
+content_img_path: /images/octopus.png
 excerpt: >-
   This week I added a new way of entertaining my passengers called Octopus. If
   you haven’t heard of them they are a rideshare entertainment company that
